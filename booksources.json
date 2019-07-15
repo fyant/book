@@ -1,0 +1,14 @@
+{
+  "name": "GITHUB",
+  "summary": "Provided links and based on github.com",
+  "list": [
+    {
+      "name": "± »§∏Û",
+      "url": "https://www.biqubao.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 103
+    }
+  ]
+}
